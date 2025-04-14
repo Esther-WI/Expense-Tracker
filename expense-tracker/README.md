@@ -33,7 +33,7 @@ npm run dev
 npm run build
 
 ## link to live site
-Click here to view the live site
+https://expense-tracker-q7rf.vercel.app/
 
 ### License
 This project is open source and available under the MIT License.
